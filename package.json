@@ -1,0 +1,15 @@
+{
+  "name": "vitalstats",
+  "version": "1.0.0",
+  "description": "clean up the vital stats",
+  "main": "process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lindsay carbonell and kammy liu",
+  "license": "ISC",
+  "dependencies": {
+    "array-to-csv": "^1.0.1",
+    "csv-array": "0.0.22"
+  }
+}
